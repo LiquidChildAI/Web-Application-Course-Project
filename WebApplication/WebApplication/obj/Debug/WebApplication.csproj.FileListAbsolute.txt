@@ -1,0 +1,14 @@
+C:\Projects\WebApplication\WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Projects\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Projects\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Projects\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\Idan\Desktop\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\Idan\Desktop\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\Idan\Desktop\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\Idan\Desktop\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\John\Desktop\My Files on E\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\John\Desktop\My Files on E\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\John\Desktop\My Files on E\WebApplication\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\My Files on E\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\John\Desktop\My Files on E\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
